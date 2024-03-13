@@ -1,0 +1,10 @@
+{"level":"error","message":"Wed Feb 28 2024 06:21:20 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Feb 28 2024 07:51:06 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 15:09:10 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 15:09:10 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 15:34:31 GMT+0100 (Central European Standard Time)-{\"expose\":true,\"statusCode\":400,\"status\":400,\"body\":\"{\\n    \\\"email\\\":\\\"test4@test.com\\\"\\n    \\\"password\\\":\\\"12345\\\"\\n    \\\"phone\\\":\\\"12345\\\"\\n\\n\\n}\",\"type\":\"entity.parse.failed\"}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 15:51:41 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 15:51:44 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 16:07:52 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 16:25:19 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
+{"level":"error","message":"Fri Mar 01 2024 16:29:01 GMT+0100 (Central European Standard Time)-{\"name\":\"Data Not found\",\"statusCode\":500,\"isOperational\":true}","private":true}
